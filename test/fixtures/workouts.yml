@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2018-06-29 23:40:28
+  Workout: MyString
+  Mood: MyString
+  Length: MyString
+
+two:
+  date: 2018-06-29 23:40:28
+  Workout: MyString
+  Mood: MyString
+  Length: MyString
